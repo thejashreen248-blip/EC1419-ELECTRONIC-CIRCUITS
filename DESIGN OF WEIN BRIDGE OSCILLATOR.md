@@ -11,13 +11,18 @@
 <img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/4dec0495-caa6-4933-83cb-6dfac55d8051" />
 
 
 ## Tabulation
 
 ## Graph
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e84325e7-8681-44c8-bf7c-9078f2292b7a" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/68347018-14dc-42da-a399-3ccd69a154bc" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1582c31c-0f51-4440-9e78-31f454e9b4c3" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+
 
 Practical frequency of Oscillation =
 
